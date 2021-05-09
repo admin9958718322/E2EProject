@@ -1,0 +1,119 @@
+2021-05-07 00:03:00,370 INFO a.base [main] Driver initialized
+2021-05-07 00:03:03,940 INFO a.base [main] Driver initialized
+2021-05-07 00:03:11,517 INFO a.base [main] Driver initialized
+2021-05-07 00:03:29,475 INFO a.base [main] Driver initialized
+2021-05-07 00:03:33,232 INFO a.base [main] Driver initialized
+2021-05-07 00:03:44,633 INFO a.base [main] Driver initialized
+2021-05-07 00:04:48,540 INFO a.base [main] Driver initialized
+2021-05-07 00:05:39,416 INFO a.base [main] Driver initialized
+2021-05-07 00:06:25,416 INFO a.base [main] Driver initialized
+2021-05-07 00:10:01,606 INFO a.base [main] Driver initialized
+2021-05-07 00:10:05,107 INFO a.base [main] Driver initialized
+2021-05-07 00:10:10,483 INFO a.base [main] Driver initialized
+2021-05-07 00:10:18,069 INFO a.base [main] Navigated to Home Page
+2021-05-07 00:10:41,412 INFO a.base [main] Driver initialized
+2021-05-07 00:13:57,958 INFO a.base [main] Driver initialized
+2021-05-07 00:14:01,653 INFO a.base [main] Driver initialized
+2021-05-07 00:14:13,547 INFO a.base [main] Driver initialized
+2021-05-07 00:14:31,746 INFO a.base [main] Driver initialized
+2021-05-07 00:34:04,631 INFO a.base [TestNG] Driver initialized
+2021-05-07 00:34:04,631 INFO a.base [TestNG] Driver initialized
+2021-05-07 00:34:04,687 INFO a.base [TestNG] Driver initialized
+2021-05-07 00:34:10,977 INFO a.base [TestNG] Navigated to Home Page
+2021-05-07 00:34:12,239 INFO a.base [TestNG] Navigated to Home Page
+2021-05-07 00:34:12,388 INFO a.base [TestNG] Successfully validated the navigation bar
+2021-05-07 00:34:26,968 INFO a.base [main] Driver initialized
+2021-05-07 00:34:32,837 INFO a.base [main] Navigated to Home Page
+2021-05-07 00:34:32,925 INFO a.base [main] Successfully validated the navigation bar
+2021-05-07 00:34:37,289 INFO a.base [main] Driver initialized
+2021-05-07 00:34:49,425 INFO a.base [main] Driver initialized
+2021-05-07 00:34:53,952 INFO a.base [main] Navigated to Home Page
+2021-05-07 00:36:07,663 INFO a.base [TestNG] Driver initialized
+2021-05-07 00:36:08,169 INFO a.base [TestNG] Driver initialized
+2021-05-07 00:36:08,459 INFO a.base [TestNG] Driver initialized
+2021-05-07 00:36:14,772 INFO a.base [TestNG] Navigated to Home Page
+2021-05-07 00:36:14,950 INFO a.base [TestNG] Navigated to Home Page
+2021-05-07 00:36:14,981 INFO a.base [TestNG] Successfully validated the navigation bar
+2021-05-07 16:09:21,619 INFO a.base [main] Driver initialized
+2021-05-07 16:09:26,436 INFO a.base [main] Driver initialized
+2021-05-07 16:09:32,076 INFO a.base [main] Driver initialized
+2021-05-07 16:09:36,839 INFO a.base [main] Navigated to Home Page
+2021-05-07 16:21:28,196 INFO a.base [main] Driver initialized
+2021-05-07 16:21:50,401 INFO a.base [TestNG] Driver initialized
+2021-05-07 16:21:50,406 INFO a.base [TestNG] Driver initialized
+2021-05-07 16:21:50,428 INFO a.base [TestNG] Driver initialized
+2021-05-07 16:21:58,938 INFO a.base [TestNG] Navigated to Home Page
+2021-05-07 16:21:58,957 INFO a.base [TestNG] Navigated to Home Page
+2021-05-07 16:21:59,082 INFO a.base [TestNG] Successfully validated the navigation bar
+2021-05-07 16:21:59,241 INFO a.base [TestNG] Successfully validated the text message
+2021-05-07 16:39:58,557 INFO a.base [TestNG] Driver initialized
+2021-05-07 16:39:58,599 INFO a.base [TestNG] Driver initialized
+2021-05-07 16:39:58,656 INFO a.base [TestNG] Driver initialized
+2021-05-07 16:40:06,730 INFO a.base [TestNG] Navigated to Home Page
+2021-05-07 16:40:06,918 INFO a.base [TestNG] Navigated to Home Page
+2021-05-07 16:40:07,008 INFO a.base [TestNG] Successfully validated the navigation bar
+2021-05-07 16:40:07,518 INFO a.base [TestNG] Successfully validated the text message
+2021-05-07 16:42:33,288 INFO a.base [main] Driver initialized
+2021-05-07 16:42:39,741 INFO a.base [main] Navigated to Home Page
+2021-05-07 16:42:39,821 INFO a.base [main] Successfully validated the text message
+2021-05-07 16:42:42,581 INFO a.base [main] Driver initialized
+2021-05-07 16:42:48,345 INFO a.base [main] Navigated to Home Page
+2021-05-07 16:42:48,443 INFO a.base [main] Successfully validated the navigation bar
+2021-05-07 16:42:50,734 INFO a.base [main] Driver initialized
+2021-05-07 16:44:02,436 INFO a.base [main] Driver initialized
+2021-05-07 16:44:06,251 INFO a.base [main] Driver initialized
+2021-05-07 16:44:20,517 INFO a.base [main] Driver initialized
+2021-05-07 16:44:25,901 INFO a.base [main] Navigated to Home Page
+2021-05-07 16:44:25,986 INFO a.base [main] Successfully validated the text message
+2021-05-07 16:44:30,905 INFO a.base [main] Driver initialized
+2021-05-07 16:44:36,461 INFO a.base [main] Navigated to Home Page
+2021-05-07 16:44:36,549 INFO a.base [main] Successfully validated the text message
+2021-05-07 16:44:38,976 INFO a.base [main] Driver initialized
+2021-05-07 16:44:44,389 INFO a.base [main] Navigated to Home Page
+2021-05-07 16:44:44,476 INFO a.base [main] Successfully validated the navigation bar
+2021-05-07 16:44:46,860 INFO a.base [main] Driver initialized
+2021-05-07 16:45:24,367 INFO a.base [main] Driver initialized
+2021-05-07 16:45:28,950 INFO a.base [main] Navigated to Home Page
+2021-05-07 16:45:29,072 INFO a.base [main] Successfully validated the navigation bar
+2021-05-07 16:45:31,930 INFO a.base [main] Driver initialized
+2021-05-07 16:45:38,207 INFO a.base [main] Driver initialized
+2021-05-07 16:46:26,305 INFO a.base [main] Driver initialized
+2021-05-07 16:46:31,190 INFO a.base [main] Navigated to Home Page
+2021-05-07 16:46:31,276 INFO a.base [main] Successfully validated the text message
+2021-05-07 16:46:33,652 INFO a.base [main] Driver initialized
+2021-05-07 16:46:38,824 INFO a.base [main] Navigated to Home Page
+2021-05-07 16:46:38,939 INFO a.base [main] Successfully validated the navigation bar
+2021-05-07 16:46:40,883 INFO a.base [main] Driver initialized
+2021-05-07 16:49:01,722 INFO a.base [main] Driver initialized
+2021-05-07 16:49:06,084 INFO a.base [main] Navigated to Home Page
+2021-05-07 16:49:06,185 INFO a.base [main] Successfully validated the navigation bar
+2021-05-07 16:49:14,981 INFO a.base [main] Driver initialized
+2021-05-07 16:49:33,556 INFO a.base [main] Driver initialized
+2021-05-07 16:50:02,784 INFO a.base [main] Driver initialized
+2021-05-07 16:50:07,462 INFO a.base [main] Navigated to Home Page
+2021-05-07 16:50:07,558 INFO a.base [main] Successfully validated the text message
+2021-05-07 16:50:10,158 INFO a.base [main] Driver initialized
+2021-05-07 16:50:14,681 INFO a.base [main] Navigated to Home Page
+2021-05-07 16:50:14,819 INFO a.base [main] Successfully validated the navigation bar
+2021-05-07 16:50:17,036 INFO a.base [main] Driver initialized
+2021-05-07 16:53:03,974 INFO a.base [main] Driver initialized
+2021-05-07 16:53:08,498 INFO a.base [main] Navigated to Home Page
+2021-05-07 16:53:08,589 INFO a.base [main] Successfully validated the text message
+2021-05-07 16:53:11,892 INFO a.base [main] Driver initialized
+2021-05-07 16:53:17,159 INFO a.base [main] Navigated to Home Page
+2021-05-07 16:53:17,280 INFO a.base [main] Successfully validated the navigation bar
+2021-05-07 16:53:19,885 INFO a.base [main] Driver initialized
+2021-05-07 17:35:43,465 INFO a.base [main] Driver initialized
+2021-05-07 17:35:48,888 INFO a.base [main] Navigated to Home Page
+2021-05-07 17:35:48,958 INFO a.base [main] Successfully validated the text message
+2021-05-07 17:35:50,986 INFO a.base [main] Driver initialized
+2021-05-07 17:35:56,546 INFO a.base [main] Navigated to Home Page
+2021-05-07 17:35:56,637 INFO a.base [main] Successfully validated the navigation bar
+2021-05-07 17:35:58,534 INFO a.base [main] Driver initialized
+2021-05-07 19:09:31,175 INFO a.base [main] Driver initialized
+2021-05-07 19:09:34,488 INFO a.base [main] Navigated to Home Page
+2021-05-07 19:09:34,578 INFO a.base [main] Successfully validated the text message
+2021-05-07 19:09:40,265 INFO a.base [main] Driver initialized
+2021-05-07 19:09:42,517 INFO a.base [main] Navigated to Home Page
+2021-05-07 19:09:42,617 INFO a.base [main] Successfully validated the navigation bar
+2021-05-07 19:09:48,067 INFO a.base [main] Driver initialized

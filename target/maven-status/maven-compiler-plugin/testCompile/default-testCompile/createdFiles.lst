@@ -1,0 +1,5 @@
+academy\VerifyNavBar.class
+academy\VerifyTitle.class
+academy\HomePage.class
+pageObject\LandingPage.class
+pageObject\LoginPage.class
