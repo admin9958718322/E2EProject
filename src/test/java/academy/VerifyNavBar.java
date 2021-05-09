@@ -28,7 +28,7 @@ public class VerifyNavBar extends base {
 		log.info("Driver initialized");
 		driver.get(prop.getProperty("url"));
 		log.info("Navigated to Home Page");
-		System.out.println("Hello - Git Test");
+		log.info("Test Case working as expected");
 	}
 
 	@Test

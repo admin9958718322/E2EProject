@@ -2,12 +2,12 @@
 <testng-results total="1" passed="0" failed="0" skipped="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-05-09T04:19:30Z" name="Command line suite" finished-at="2021-05-09T04:19:30Z" duration-ms="14">
+  <suite started-at="2021-05-09T13:35:43Z" name="Command line suite" finished-at="2021-05-09T13:35:43Z" duration-ms="18">
     <groups>
     </groups>
-    <test started-at="2021-05-09T04:19:30Z" name="Command line test" finished-at="2021-05-09T04:19:30Z" duration-ms="14">
+    <test started-at="2021-05-09T13:35:43Z" name="Command line test" finished-at="2021-05-09T13:35:43Z" duration-ms="18">
       <class name="academy.VerifyNavBar">
-        <test-method is-config="true" signature="initialize()[pri:0, instance:academy.VerifyNavBar@76012793]" started-at="2021-05-09T09:49:30Z" name="initialize" finished-at="2021-05-09T09:49:30Z" duration-ms="0" status="FAIL">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:academy.VerifyNavBar@76012793]" started-at="2021-05-09T19:05:43Z" name="initialize" finished-at="2021-05-09T19:05:43Z" duration-ms="0" status="FAIL">
           <exception class="java.lang.NullPointerException">
             <message>
               <![CDATA[Cannot invoke "String.equals(Object)" because "browserName" is null]]>
@@ -46,11 +46,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method signature="VerifyNavBar()[pri:0, instance:academy.VerifyNavBar@76012793]" started-at="2021-05-09T09:49:30Z" name="VerifyNavBar" finished-at="2021-05-09T09:49:30Z" duration-ms="0" status="SKIP">
+        <test-method signature="VerifyNavBar()[pri:0, instance:academy.VerifyNavBar@76012793]" started-at="2021-05-09T19:05:43Z" name="VerifyNavBar" finished-at="2021-05-09T19:05:43Z" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyNavBar -->
-        <test-method is-config="true" signature="closeDriver()[pri:0, instance:academy.VerifyNavBar@76012793]" started-at="2021-05-09T09:49:30Z" name="closeDriver" finished-at="2021-05-09T09:49:30Z" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:academy.VerifyNavBar@76012793]" started-at="2021-05-09T19:05:43Z" name="closeDriver" finished-at="2021-05-09T19:05:43Z" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDriver -->
