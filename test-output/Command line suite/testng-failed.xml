@@ -3,12 +3,12 @@
 <suite name="Failed suite [Command line suite]">
   <test name="Command line test(failed)">
     <classes>
-      <class name="academy.VerifyTitle">
+      <class name="academy.VerifyNavBar">
         <methods>
+          <include name="VerifyNavBar"/>
           <include name="initialize"/>
-          <include name="VerifyTitle"/>
         </methods>
-      </class> <!-- academy.VerifyTitle -->
+      </class> <!-- academy.VerifyNavBar -->
     </classes>
   </test> <!-- Command line test(failed) -->
 </suite> <!-- Failed suite [Command line suite] -->
